@@ -6,3 +6,6 @@
   - Tematski načini (svetli, temni, fokus)
   - Statistični pregled produktivnosti
 - Ustvarjena stran `kontakt.html` s kontaktnimi podatki razvijalca.
+
+- Odobril sem vse merge requeste
+- Rešil sem konflikt ki je nastal pri merganju strani `kontakt.html`
