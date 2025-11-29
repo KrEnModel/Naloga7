@@ -9,3 +9,6 @@
 
 - Odobril sem vse merge requeste
 - Rešil sem konflikt ki je nastal pri merganju strani `kontakt.html`
+
+- Dodan `testni_scenarij.md` z opisanimi testnimi scenariji za 3 funkcionalnosti
+- Posodobljen `kontakt.html` z dodatnimi kontaktnimi podatki
